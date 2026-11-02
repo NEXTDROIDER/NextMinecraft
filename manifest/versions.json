@@ -1,11 +1,9 @@
 {
   "launcher": "Nextroider Minecraft Launcher",
   "manifest_version": 1,
-  "versions": [
-    {
-      "id": "nextroider-test",
-      "name": "Nextroider Test",
-      "manifest": "versions/nextroider-test.json"
-    }
-  ]
+  "latest": {
+    "id": "github.Nextroider.minecraftlauncher",
+    "name": "Latest",
+    "manifest": "versions/latest.json"
+  }
 }
